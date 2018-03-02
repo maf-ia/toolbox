@@ -1,0 +1,13 @@
+Recopier une valeur 2 cases plus loin en utilisant un temp  3 case + loin
+[->>+>+<<<]>>>[-<<<+>>>] 
+Fibonaci en memoire
+>+++++++++++>+>+<<[[>]<<[->>+>+<<<]>>>[-<<<+>>>]<<[->+>+<<]>>[-<<+>>]<[<]>-]
+Se déplacer de n vers la droite si tout est vide devant : 
+[-[->+<]>]
+ou en écrasant tout sur le passage
+[>[-]<-[->+<]>] 
+
+display number in memory :
+>>++++++++++<<[->+>-[>+>>]>[+[-<+>]>+>>]<<<<<<]>>[-]>>>++++++++++<[->-[>+>>]>[+[-
+<+>]>+>>]<<<<<]>[-]>>[>++++++[-<++++++++>]<.<<+>+>[-]]<[<[->-<]++++++[->++++++++
+<]>.[-]]<<++++++[-<++++++++>]<.[-]<<[-<+>]<
