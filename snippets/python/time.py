@@ -24,3 +24,18 @@ def timeit(method):
         return result
 
     return timed
+
+
+# -*- coding: utf-8 -*-
+# python
+# example of using timeit.timeit
+# testing the speed of a function that takes one argument
+
+mydata = 5
+
+def f1(x):
+    return x+1
+
+import timeit
+
+print timeit.timeit("f1(mydata)", setup = "from __main__ import f1, mydata", number=1)
