@@ -1,4 +1,6 @@
 
+# https://www.aldeid.com/wiki/X86-assembly/Instructions
+
 class asm:
     def __init__( self, archsize ):
         self.archsize = archsize
