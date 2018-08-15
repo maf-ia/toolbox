@@ -1,5 +1,8 @@
 import time
 
+
+time.sleep(5)   # Delays for 5 seconds. You can also use a float value.
+
 start = time.time()
 print "hello"
 end = time.time()
